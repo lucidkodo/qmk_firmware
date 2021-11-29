@@ -1,0 +1,34 @@
+Layout:
+  [ ] make colemakDH default
+  [ ] add numpad
+  [ ] add qwerty (gaming, aka double space thumbs)
+  [ ]
+
+
+MACROS
+m0 - next word
+{KC_LALT,KC_LEFT}
+
+m1 - prev word
+{KC_LALT,KC_RGHT}
+
+m2 - next workspace/desktop
+{KC_LCTL,KC_LEFT}
+
+m3 - prev workspace/desktop
+{KC_LCTL,KC_RGHT}
+
+m4 - move app to left workspace/desktop (amethyst)
+{KC_LSFT,KC_LCTL,KC_LALT,KC_LEFT}
+
+m5 - move app to rigth workspace/desktop (amethyst)
+{KC_LSFT,KC_LCTL,KC_LALT,KC_RGHT}
+
+m6 - lockscreen
+{KC_LCTL,KC_LGUI,KC_Q}
+
+m7 - screenshot (select area)
+{KC_LSFT,KC_LGUI,KC_4}
+
+m8 - screenshot (screen record)
+{KC_LSFT,KC_LGUI,KC_5}
